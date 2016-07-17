@@ -1,5 +1,5 @@
 # HospitalTriageApp
-Hospital Triage Android App made for CSC207
+Hospital Triage Android App made for CSC207 by Jacky Shum, Yuze Zhang, Zoe Wang, and Alex Tse.
 
 This is a hospital triage Android app made for CSC207, patched to work with Android Studio and Gradle builds. 
 
